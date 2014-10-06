@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>6.6</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FullScreen>false</FullScreen>
+            <GalleryName>mygalary</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>parallax,domino,stack</ImageEffect>
+            <ImageFillColor>#ffffff</ImageFillColor>
+            <ImageHeight>600</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>true</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/easy/</ImageTemplate>
+            <ImageTemplateName>Easy</ImageTemplateName>
+            <ImageWidth>800</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/Kennedy/Documents/WOW Slider/index.html</PublishFileName>
+            <PublishIndex>index.html</PublishIndex>
+            <PublishPath>C:/Users/Kennedy/Documents/WOW Slider</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>true</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>23</SlideshowDelay>
+            <SlideshowDuration>23</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <TemplateName>easy</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>false</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/Kennedy/Desktop/GenKey1/ken/IMG_9058.JPG</url>
+                <title> Team Mates</title>
+                <description>After Work</description>
+                <filesize>6576000</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Kennedy/Desktop/GenKey1/ken/IMG_9082.JPG</url>
+                <title>Strong Men</title>
+                <filesize>8110568</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Kennedy/Desktop/GenKey1/ken/IMG_9087.JPG</url>
+                <title>Fun</title>
+                <description>After work</description>
+                <filesize>8783639</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Kennedy/Desktop/GenKey1/ken/IMG_9102.JPG</url>
+                <title>Nice </title>
+                <filesize>8602793</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Kennedy/Desktop/GenKey1/ken/IMG_9119.JPG</url>
+                <title>Back View</title>
+                <filesize>7498501</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Kennedy/Desktop/GenKey1/IMG_1542.JPG</url>
+                <title>Genkey</title>
+                <description>The A Team</description>
+                <filesize>6495946</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Kennedy/Desktop/GenKey1/IMG_1551.JPG</url>
+                <title>Genkey</title>
+                <description>Bosses</description>
+                <filesize>6525525</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Kennedy/Desktop/GenKey1/IMG_1556.JPG</url>
+                <title>Future Leaders</title>
+                <filesize>5180661</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Kennedy/Desktop/GenKey1/IMG_1572.JPG</url>
+                <title>Genkey Ladies</title>
+                <description>Painting with beauty</description>
+                <filesize>5205653</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Kennedy/Desktop/GenKey1/IMG_2018.JPG</url>
+                <title>Observer</title>
+                <filesize>4672385</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Kennedy/Desktop/GenKey1/IMG_2024.JPG</url>
+                <title>To the sky</title>
+                <filesize>5372366</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Kennedy/Desktop/GenKey1/IMG_2026.JPG</url>
+                <title>Genkey</title>
+                <description>Grand Papas</description>
+                <filesize>4881552</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Kennedy/Desktop/GenKey1/IMG_2082.JPG</url>
+                <title>work &amp; fun</title>
+                <description>Paarrrttyyyy Timeee</description>
+                <filesize>6226132</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Kennedy/Desktop/GenKey1/IMG_2113.JPG</url>
+                <title>work &amp; fun</title>
+                <description>Lift Your cups!!</description>
+                <filesize>5440481</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Kennedy/Desktop/GenKey1/IMG_2114.JPG</url>
+                <title>Party Time</title>
+                <filesize>5592790</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Kennedy/Desktop/GenKey1/IMG_2126.JPG</url>
+                <title>Genkey</title>
+                <description>Nice Huh</description>
+                <filesize>4080104</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Kennedy/Desktop/GenKey1/IMG_2143.JPG</url>
+                <title>Blending </title>
+                <filesize>5487050</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Kennedy/Documents/WOW Slider/IMG_9063.JPG</url>
+                <title>Nice pose</title>
+                <filesize>7371542</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Kennedy/Documents/WOW Slider/IMG_9064.JPG</url>
+                <title>waz up </title>
+                <description>life is good</description>
+                <filesize>3608209</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Kennedy/Documents/WOW Slider/IMG_9065.JPG</url>
+                <title>Fun</title>
+                <filesize>4439479</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Kennedy/Documents/WOW Slider/IMG_9067.JPG</url>
+                <title>Nice</title>
+                <filesize>7244780</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Kennedy/Documents/WOW Slider/IMG_9069.JPG</url>
+                <title>Nice One</title>
+                <filesize>5210445</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
