@@ -200,7 +200,7 @@
                 <!-- start address -->
                 <div class="col-xs-12 col-sm-6 col-lg-3">
                     <a href="contact.html#" class="hover-animate">
-                        <span class="ukie-icons hover-animate"><i class="fa fa-map-marker"></i></span> 44 King St, Melbourne VIC
+                        <span class="ukie-icons hover-animate"><i class="fa fa-map-marker"></i></span>Aluguntugu street, E. Legon
                     </a>
                 </div>
                 <!-- end address -->
@@ -251,10 +251,10 @@
         var submitRef = '&submit=Submit';
         var submitURL = (baseURL + q1ID + "=" + username + "&" + q2ID + "=" + useremail + "&" + q3ID + "=" + usermsg + submitRef);
         console.log(submitURL);
-        console.log(username, useremail, usermsg);
-        console.log(q1ID, q2ID, q3ID);
         $(this)[0].action=submitURL;
-        $('#input-name').addClass('active').val('Thank You!');
+      alert("Thank you for contacting me")
+      document.getElementById("contact-form").reset();
+        // $('#input-name').addClass('active').val('Thank You!');
     });
 </script>
 
