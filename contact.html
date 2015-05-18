@@ -244,13 +244,15 @@
         var useremail = encodeURIComponent($('#user-email').val());
         var usermsg = encodeURIComponent($('#user-message').val());
 
-        var q1ID = "entry.885339665";
-        var q2ID = "entry.1810700882";
-        var q3ID = "entry.424506459";
-        var baseURL = 'https://docs.google.com/forms/d/1RrbcX_pFiMFtf-JXD1xa8rBlsLaby9IJVofs3EZxCQs/formResponse?';
+        var q1ID = "entry.646897121";
+        var q2ID = "entry.1703219729";
+        var q3ID = "entry.1488490726";
+        var baseURL = 'https://docs.google.com/forms/d/1JUikODXD3Ovf6uyTjLinRx6_WG9T_H-Nqyx9COd-gp4/formResponse?';
         var submitRef = '&submit=Submit';
         var submitURL = (baseURL + q1ID + "=" + username + "&" + q2ID + "=" + useremail + "&" + q3ID + "=" + usermsg + submitRef);
         console.log(submitURL);
+        console.log(username, useremail, usermsg);
+        console.log(q1ID, q2ID, q3ID);
         $(this)[0].action=submitURL;
         $('#input-name').addClass('active').val('Thank You!');
     });
