@@ -249,7 +249,7 @@ var email = $j('#user-email').val();
 var message = $j('#user-message').val();
 if ((name !== "") && (email !== "") && ((message !== "") && (validateEmail(email)))) {
 $j.ajax({
-url: "https://docs.google.com/forms/d/1RrbcX_pFiMFtf-JXD1xa8rBlsLaby9IJVofs3EZxCQs/formResponse",
+url: "https://docs.google.com/spreadsheets/d/10ZI0HTgWN8BeT__dMi0R9gSsgRE4BntgKapPnDoDuoU/edit#gid=0",
 data: {"entry.1" : name, "entry.3" : email, "entry.4": message},
 type: "POST",
 dataType: "xml",
